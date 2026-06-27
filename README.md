@@ -26,43 +26,26 @@ I am Vishnu,a fourth-year engineering student at JEC Thrissur, Kerala. I like bu
 
 ---
 
-## 💻 Tech Stack
+💻 Tech Stack
+Languages & Web Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,dart,html,css,js,ts,flutter&perline=7" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,java,dart,html,css,js,ts&perline=8" /> </p>
 
-## 🛠️ Tools & Platforms
+Frameworks & Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio&perline=4" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,flask,nodejs&perline=3" /> </p>
 
-## 📊 Data Science & Development
+Tools & Platforms
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio&perline=4" /> </p>
 
-## 🎨 Creative Tools
+Data Science & Learning
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> </p>
 
----
+Creative Tools
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vishnu-V-Dev&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-V-Dev&layout=compact&theme=tokyonight"/>
-
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" /> </p>
 
 ---
 
