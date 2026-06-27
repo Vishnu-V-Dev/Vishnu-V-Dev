@@ -1,22 +1,7 @@
-# 👋 Hi there, I'm Vishnu < />
+## 💫 About Me:
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vishnu&fontSize=70&animation=fadeIn&fontAlignY=35" />
-</p>
+I am Vishnu,a fourth-year engineering student at JEC Thrissur, Kerala. I like building practical projects, learning new tools and technologies, and strengthening my programming skills. I've worked in developing apps and web with HTML, JavaScript or TypeScript, Python, C, Java, Dart. Eager to learn, innovate, in the field of about technology and continuous learning to build innovative solutions and grow into a skilled software engineer.
 
-<h3 align="center">
-  A passionate developer from Kerala, India 🇮🇳
-</h3>
-
----
-
-## 🙋‍♂️ About Me
-
-I'm **Vishnu**, a 4th-year **B.Tech Engineering student at JEC Thrissur, Kerala**.
-
-I enjoy building projects, exploring new technologies, and improving my programming skills. I have experience working with multiple programming languages including **Python, C, Java, Dart, HTML, JavaScript, and TypeScript**.
-
-I am interested in software development, problem-solving, and creating meaningful digital experiences.
 
 ---
 
@@ -38,6 +23,22 @@ I am interested in software development, problem-solving, and creating meaningfu
 
 </p>
 
+
+---
+
+## 💻 Tech Stack
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+
+---
+
 ---
 
 ## 💻 Tech Stack
@@ -54,9 +55,9 @@ I am interested in software development, problem-solving, and creating meaningfu
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vishnu-V-Dev&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-V-Dev&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -70,6 +71,3 @@ I am interested in software development, problem-solving, and creating meaningfu
 
 ---
 
-<h3 align="center">
-  Made with ❤️ from Kerala, India 🇮🇳
-</h3>
