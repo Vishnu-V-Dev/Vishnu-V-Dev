@@ -1,3 +1,10 @@
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vishnu%20V%20Dev&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" /> </p>
+
+<h3 align="center"> Aspiring Software Engineer • Building Projects • Continuously Learning </h3>
+
+<p align="center"> Passionate about software development, problem-solving, and turning ideas into practical solutions through technology. </p>
+
+
 ## 💫 About Me:
 
 I am Vishnu,a fourth-year engineering student at JEC Thrissur, Kerala. I like building practical projects, learning new tools and technologies, and strengthening my programming skills. I've worked in developing apps and web with HTML, JavaScript or TypeScript, Python, C, Java, Dart. Eager to learn, innovate, in the field of about technology and continuous learning to build innovative solutions and grow into a skilled software engineer.
@@ -49,7 +56,7 @@ Creative Tools
 
 ---
 
-## 🚀 Currently Learning
+## 🛡️ Currently Learning
 
 - Advanced programming concepts
 - Software development practices
