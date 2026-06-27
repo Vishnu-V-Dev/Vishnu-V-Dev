@@ -29,7 +29,7 @@ I am Vishnu,a fourth-year engineering student at JEC Thrissur, Kerala. I like bu
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,dart,html,css,js,ts,flask,git,github,vscode,flutter,androidstudio&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,dart,html,css,js,ts,flutter&perline=7" />
 </p>
 
 ## 🛠️ Tools & Platforms
