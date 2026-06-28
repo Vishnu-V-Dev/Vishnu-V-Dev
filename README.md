@@ -1,8 +1,4 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vishnu%20V%20Dev&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" /> </p>
-
-<h3 align="center"> Aspiring Software Engineer • Building Projects • Continuously Learning </h3>
-
-<p align="center"> Passionate about software development, problem-solving, and turning ideas into practical solutions through technology. </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Thank You%20V%20for Visiting!u&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" /> </p>
 
 
 ## 💫 About Me:
@@ -56,11 +52,12 @@ Creative Tools
 
 ---
 
-## 🛡️ Currently Learning
+## 📊 GitHub Statistics
 
-- Advanced programming concepts
-- Software development practices
-- New frameworks and technologies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-V-Dev&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-V-Dev&layout=compact&theme=tokyonight" height="180em" />
+</p>
 
 ---
 
