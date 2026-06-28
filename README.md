@@ -1,4 +1,6 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Thank You%20V%20for Visiting!u&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Thank%20You%20for%20Visiting!&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
 
 ## 💫 About Me:
