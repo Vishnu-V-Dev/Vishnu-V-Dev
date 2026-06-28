@@ -5,14 +5,17 @@
 
 ## 💫 About Me:
 
-I am Vishnu,a fourth-year engineering student at JEC Thrissur, Kerala. I like building practical projects, learning new tools and technologies, and strengthening my programming skills. I've worked in developing apps and web with HTML, JavaScript or TypeScript, Python, C, Java, Dart. Eager to learn, innovate, in the field of about technology and continuous learning to build innovative solutions and grow into a skilled software engineer.
-
+I am Vishnu, a Fourth-year CSE Engineering student at JEC Thrissur, Kerala. I've worked in developing apps and web with the tech stacks and tools given below. Eager to learn, innovate, in the field of technology and continuous learning to build innovative solutions and grow into a skilled software engineer.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
+
+<a href="https://www.instagram.com/vishnu.v6ev](https://www.linkedin.com/in/vishnu-v-dev">
+<img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="https://www.instagram.com/vishnu.v6ev">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
