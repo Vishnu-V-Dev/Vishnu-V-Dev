@@ -26,7 +26,7 @@ I am Vishnu, a Fourth-year CSE Engineering student at JEC Thrissur, Kerala. I've
 
 ---
 
-💻 Tech Stack
+## 💻 Tech Stack
 Languages & Web Technologies
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,c,java,dart,html,css,js,ts&perline=8" /> </p>
