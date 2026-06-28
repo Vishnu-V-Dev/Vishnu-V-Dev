@@ -13,7 +13,7 @@ I am Vishnu, a Fourth-year CSE Engineering student at JEC Thrissur, Kerala. I've
 
 <p align="left">
 
-<a href="https://www.instagram.com/vishnu.v6ev](https://www.linkedin.com/in/vishnu-v-dev">
+<a href="https://www.linkedin.com/in/vishnu-v-dev">
 <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
