@@ -21,14 +21,6 @@ I am Vishnu, a Fourth-year CSE Engineering student at JEC Thrissur, Kerala. I've
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
-<a href="https://pin.it/6PuhjbOKo">
-<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white"/>
-</a>
-
-<a href="https://www.reddit.com/u/75hrtx">
-<img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
-</a>
-
 </p>
 
 
