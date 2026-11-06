@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 
-I'm Vishnu, a fourth-year Computer Science and Engineering student at JEC, Thrissur, Kerala. I have experience in developing web and mobile applications using various technologies and tools. I aim to keep learning, build meaningful projects, and becomeing better every day.
+I'm Vishnu, a fourth-year Computer Science and Engineering student at JEC, Thrissur, Kerala. I have experience in developing web and mobile applications using various technologies and tools. I aim to keep learning, build meaningful projects, and becoming better every day.
 
 ---
 
